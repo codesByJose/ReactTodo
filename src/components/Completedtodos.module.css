@@ -1,0 +1,15 @@
+.completed{
+    margin: auto ;
+    color: black;
+    position: fixed;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-size: 2em;
+    font-weight: 900;
+    background-color: blue;
+}
+.total{
+    margin-left: 80px;
+}
